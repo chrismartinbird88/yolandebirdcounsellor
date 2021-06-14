@@ -78,9 +78,16 @@ button{
 }
 .anxiety-box h1{
     padding-top: 20%;
-    color: black;
     font-weight: bolder;
     font-size: 50pt;
+}
+.anxiety-box:hover{
+    background-color: blue;
+    color:white;
+    min-width: 300px;
+    max-width: 600px;
+    height: 400px;
+    align-self: center;
 }
 .ptsd-box{
     background-color: skyblue;
@@ -91,9 +98,16 @@ button{
 }
 .ptsd-box h1{
     padding: 20%;
-    color: black;
     font-weight: bolder;
     font-size: 50pt;
+}
+.ptsd-box{
+    background-color: blue;
+    min-width: 300px ;
+    max-width: 600px;
+    color:white;
+    height: 400px;
+    align-self: center;
 }
 .stress-box{
     background-color: skyblue;
@@ -106,7 +120,6 @@ button{
     padding-top: 20%;
     font-weight: bolder;
     font-size: 50pt;
-    color: black;
 }
 .relationship-box{
     background-color: skyblue;
@@ -117,7 +130,6 @@ button{
 }
 .relationship-box h1{
     padding-top: 20%;
-    color: black;
     font-weight: bolder;
     font-size:35pt;
     margin-left: -5px;
@@ -130,7 +142,6 @@ button{
 }
 .trauma-box h1{
     padding-top: 20%;
-    color: black;
     font-weight: bolder;
     font-size: 50pt;
 }
@@ -143,7 +154,6 @@ button{
 .depression-box h1{
     padding-top: 20%;
     padding-left: 0%;
-    color: black;
     font-weight: bolder;
     font-size: 40pt;
 }
