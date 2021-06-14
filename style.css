@@ -7,16 +7,16 @@ nav{
     width: 100%;
 }
 a{
-    font-weight: bold;
+    font-weight: bolder;
 }
 .logo-text a{
     padding-left: 10%;
-    color: whitesmoke;
+    color: white;
     font-size: 12pt;
 }
 .nav-link{
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
 }
 .dropdown-item {
     display: block;
@@ -29,20 +29,20 @@ a{
     background-color: transparent;
     border: 0;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
 }
 .dropdown-item:hover{
-    background-color: lightskyblue;
-    font-weight: bold;
+    background-color: white;
+    font-weight: bolder;
 }
 .dropdown-item:active{
-    background-color: lightskyblue;
-    font-weight: bold;
+    background-color: white;
+    font-weight: bolder;
     color: white;
 }
 .nav-link .hover{
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
 }
 .navbar ul{
     list-style: none;
