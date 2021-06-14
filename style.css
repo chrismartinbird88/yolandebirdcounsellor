@@ -60,8 +60,12 @@ main a{
 .home{
     background:transparent;
 }
-.home-row img{
-    padding-left:10%; 
+.home a button{
+    margin-left: 20%;
+}
+.home img{
+    margin-left:10%; 
+    margin-bottom: 0%;
 }
 button{
     width: max-content;
