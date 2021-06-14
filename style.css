@@ -1,22 +1,21 @@
-body{
-    background-image: url(img/container.jpeg);
-    background-size: cover;
-}
+
 nav{
-    height: fit-content;
+    height: 80px;
     width: 100%;
+    background-color: white;
 }
 a{
     font-weight: bolder;
+    color: white;
 }
 .logo-text a{
-    padding-left: 10%;
+    padding-left: 12%;
     color: white;
     font-size: 12pt;
 }
 .nav-link{
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
 }
 .dropdown-item {
     display: block;
@@ -29,28 +28,30 @@ a{
     background-color: transparent;
     border: 0;
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
 }
 .dropdown-item:hover{
-    background-color: white;
-    font-weight: bolder;
+    background-color: lightskyblue;
+    font-weight: bold;
 }
 .dropdown-item:active{
-    background-color: white;
-    font-weight: bolder;
+    background-color: lightskyblue;
+    font-weight: bold;
     color: white;
 }
 .nav-link .hover{
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
 }
 .navbar ul{
     list-style: none;
 }
 main{
-    margin-top: 100px;
+    margin-top: 80px;
     align-content: center;
     background:transparent;
+    background-image: url(img/container.jpeg);
+    background-size: cover;
 }
 .home{
     background:transparent;
@@ -239,7 +240,8 @@ h5{
     text-align: left;
 }
 h6{
-    color: black;
+    color: white;
+    font-weight: bold;
 }
 ul{
     list-style: none;
