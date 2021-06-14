@@ -49,9 +49,9 @@ a{
 main{
     margin-top: 80px;
     align-content: center;
-    background:transparent;
     background-image: url(img/container.jpeg);
     background-size: cover;
+    opacity: 0.5;
 }
 .home{
     background:transparent;
