@@ -60,6 +60,9 @@ main a{
 .home{
     background:transparent;
 }
+.home img{
+    align-self:center;   
+}
 button{
     width: max-content;
     margin-left: 25%;
