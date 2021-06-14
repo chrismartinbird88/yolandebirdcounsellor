@@ -82,18 +82,6 @@ button{
     font-weight: bolder;
     font-size: 50pt;
 }
-.anxiety-box:hover{
-    background-image: url(img/anxiety.png);
-    opacity: 70%;
-    min-width: 300px;
-    max-width: 600px;
-}
-.anxiety-box h1:hover{
-    padding-top: 20%;
-    color: rgb(38, 0, 255);
-    font-weight: bolder;
-    font-size: 50pt;
-}
 .ptsd-box{
     background-color: skyblue;
     min-width: 300px ;
@@ -107,16 +95,6 @@ button{
     font-weight: bolder;
     font-size: 50pt;
 }
-.ptsd-box:hover{
-    background-image: url(img/ptsd.jpg);
-    opacity: 70%;
-}
-.ptsd-box h1:hover{
-    padding-top: 20%;
-    color: rgb(38, 0, 255);
-    font-weight: bolder;
-    font-size: 50pt;
-}
 .stress-box{
     background-color: skyblue;
     min-width: 300px ;
@@ -124,21 +102,11 @@ button{
     height: 400px;
     align-self: center;
 }
-.stress-box:hover{
-    background-image: url(img/stress.jpg);
-    opacity: 70%;
-}
 .stress-box h1{
     padding-top: 20%;
     font-weight: bolder;
     font-size: 50pt;
     color: whitesmoke;
-}
-.stress-box h1:hover{
-    padding-top: 20%;
-    color: rgb(38, 0, 255);
-    font-weight: bolder;
-    font-size: 50pt;
 }
 .relationship-box{
     background-color: skyblue;
@@ -147,10 +115,6 @@ button{
     height: 400px;
     align-self: center;
 }
-.relationship-box:hover{
-    background-image: url(img/relationship-issues.png);
-    opacity: 70%;
-}
 .relationship-box h1{
     padding-top: 20%;
     color: whitesmoke;
@@ -158,20 +122,11 @@ button{
     font-size:35pt;
     margin-left: -5px;
 }
-.relationship-box h1:hover{
-    padding-top: 20%;
-    color: rgb(38, 0, 255);
-    font-weight: bolder;
-}
 .trauma-box{
     background-color: skyblue;
     min-width: 300px ;
     max-width: 600px;
     height: 400px;
-}
-.trauma-box:hover{
-    background-image: url(img/trauma.png);
-    opacity: 70%;
 }
 .trauma-box h1{
     padding-top: 20%;
@@ -179,20 +134,11 @@ button{
     font-weight: bolder;
     font-size: 50pt;
 }
-.trauma-box h1:hover{
-    padding-top: 20%;
-    color: rgb(38, 0, 255);
-    font-weight: bolder;
-}
 .depression-box{
     background-color: skyblue;
     min-width: 300px ;
     max-width: 600px;
     height: 400px;
-}
-.depression-box:hover{
-    background-image: url(img/depression.jpg);
-    opacity: 70%;
 }
 .depression-box h1{
     padding-top: 20%;
@@ -200,11 +146,6 @@ button{
     color: whitesmoke;
     font-weight: bolder;
     font-size: 40pt;
-}
-.depression-box h1:hover{
-    padding-top: 20%;
-    color: rgb(38, 0, 255);
-    font-weight: bolder;
 }
 .modal-title{
     color: white;
