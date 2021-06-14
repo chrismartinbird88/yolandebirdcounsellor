@@ -224,7 +224,7 @@ button{
     background: transparent;
 }
 .card a{
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 18pt;
 }
 h1{
@@ -237,15 +237,15 @@ h2{
     font-weight: bolder;
 }
 h4{
+    font-weight:bolder;
     text-align: center;
 }
 h5{
-    font-weight: bold;
+    font-weight: bolder;
     text-align: left;
 }
 h6{
-    color: white;
-    font-weight: bold;
+    font-weight: bolder;
 }
 ul{
     list-style: none;
