@@ -33,6 +33,7 @@ a{
 .dropdown-item:hover{
     background-color: lightskyblue;
     font-weight: bold;
+    color: white;
 }
 .dropdown-item:active{
     background-color: lightskyblue;
@@ -49,9 +50,8 @@ a{
 main{
     margin-top: 80px;
     align-content: center;
-    background-image: url(img/container.jpeg);
+    background-color: skyblue;
     background-size: cover;
-    opacity: 0.5;
 }
 .home{
     background:transparent;
