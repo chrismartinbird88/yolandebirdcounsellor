@@ -15,7 +15,7 @@ body{
     background-color: yellow;
 }
 
-.navbar .navbar-brand a p{
+.navbar .navbar-brand p{
     font-size: 18pt;
     font-weight: bold;
     padding-top: 10px;
