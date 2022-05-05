@@ -156,6 +156,14 @@ a {
     font-size: 1.4em;
 }
 
+#relationship{
+    font-size: 24pt;
+}
+
+#depression{
+    font-size: 30pt;
+}
+
 .tile .is-parent .is-child .about{
     background-color: yellow;
 }
